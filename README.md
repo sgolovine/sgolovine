@@ -4,7 +4,7 @@ My name is Sunny Golovine and I'm a full stack developer specializing in React a
 
 ---
 
-#### Current Projects
+### Current Projects
 
 <b><a href="https://awesomedevtools.com">Awesome Devtools</a></b>
 <br>
@@ -18,12 +18,13 @@ A better tip tracking app for tipped workers
 <br>
 Crate bookmark collections and share them with Github Gist.
 
-#### Find Me In Other Places |
+### Links
 
-<b><a style="font-size:22px" href="https://linkedin.com/in/SunnyGolovine">LinkedIn</a>
-<b><a href="https://sunnygolovine.com">Website</a>
-<b><a href="https://linkedin.com/in/SunnyGolovine">Dev.to</a>
-
+<h4>
+<b><a href="https://linkedin.com/in/SunnyGolovine">LinkedIn</a>  |  
+<b><a href="https://sunnygolovine.com">Website</a>  |  
+<b><a href="https://linkedin.com/in/SunnyGolovine">Dev.to</a> 
+</h4>
 <!-- <style>
   h3 {
     color: red;

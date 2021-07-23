@@ -23,9 +23,8 @@ Crate bookmark collections and share them with Github Gist.
 <table>
 
 <tr>
-  <td>Foo</td>
-  <td>Bar</td>
-  <td>Baz</td>
+  <td><img src="./linkedin.svg" alt="linkedin"></td>
+  <td><a href="https://linkedin.com/in/SunnyGolovine">Linkedin</a></td>
 </tr>
 
 </table>

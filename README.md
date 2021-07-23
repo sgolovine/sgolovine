@@ -20,9 +20,9 @@ Crate bookmark collections and share them with Github Gist.
 
 #### Find Me In Other Places |
 
-<b><a style="margin-left:5px;margin-right:500px;" href="https://linkedin.com/in/SunnyGolovine">LinkedIn</a>
-<b><a style="margin-left:5px;margin-right:5px;" href="https://sunnygolovine.com">Website</a>
-<b><a style="margin-left:5px;margin-right:5px;" href="https://linkedin.com/in/SunnyGolovine">Dev.to</a>
+<b><a style="font-size:22px" href="https://linkedin.com/in/SunnyGolovine">LinkedIn</a>
+<b><a href="https://sunnygolovine.com">Website</a>
+<b><a href="https://linkedin.com/in/SunnyGolovine">Dev.to</a>
 
 <!-- <style>
   h3 {

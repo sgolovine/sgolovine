@@ -20,14 +20,12 @@ Crate bookmark collections and share them with Github Gist.
 
 ### Links
 
-<h4>
-<b><a href="https://linkedin.com/in/SunnyGolovine">LinkedIn</a>  |  
-<b><a href="https://sunnygolovine.com">Website</a>  |  
-<b><a href="https://linkedin.com/in/SunnyGolovine">Dev.to</a> 
-</h4>
-<!-- <style>
-  h3 {
-    color: red;
-  }
-</style>
- -->
+<table>
+
+<tr>
+  <td>Foo</td>
+  <td>Bar</td>
+  <td>Baz</td>
+</tr>
+
+</table>

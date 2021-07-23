@@ -17,14 +17,3 @@ A better tip tracking app for tipped workers
 <b><a href="https://gistmarks.io">Gistmarks</a></b>
 <br>
 Crate bookmark collections and share them with Github Gist.
-
-### Links
-
-<table>
-
-<tr>
-  <td><img src="./linkedin.svg" alt="linkedin"></td>
-  <td><a href="https://linkedin.com/in/SunnyGolovine">Linkedin</a></td>
-</tr>
-
-</table>

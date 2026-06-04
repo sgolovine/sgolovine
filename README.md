@@ -13,10 +13,7 @@ My name is Sunny Golovine and I'm a full stack developer specializing in React a
 
 ### External Links
 
-**[My NPM](https://www.npmjs.com/~sunnygg)** - All my published packages
-
-**[Website and Blog](https://sunny.gg)** - My personal website and blog.
-
-**[Linkedin Page](https://linkedin.com/in/SunnyGolovine)** - My Linkedin Profile.
-
-**[My Resume](https://sunny.gg/resume)** - My Resume
+- **[NPM](https://www.npmjs.com/~sunnygg)** - All my published packages
+- **[Website and Blog](https://sunny.gg)** - My personal website and blog.
+- **[Linkedin](https://linkedin.com/in/SunnyGolovine)** - My Linkedin Profile.
+- **[Resume](https://sunny.gg/resume)** - My Resume

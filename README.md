@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sunny Golovine and I'm a full stack developer specializing in React and React Native
+My name is Sunny Golovine I'm an AI engineer that likes making cool and useful stuff.
 
 
 ### Current Projects
@@ -8,7 +8,7 @@ My name is Sunny Golovine and I'm a full stack developer specializing in React a
  - **[Agent Skills](https://github.com/sgolovine/agent-skills)** - A collection of my personal agent skills.
  - **[CRGC](https://github.com/sgolovine/crgc)** - Configure `.gitconfig`'s for your projects.
  - **[Data Boilerplate](https://github.com/sgolovine/data-boilerplate)** - Boilerplate for agent research projects. Includes SQLite DB for data storage + rebuilt frontend for displaying data.
- - **[CC Offers](https://github.com/sgolovine/cc-offers)** - Credit card offers. Created using [Data Boilerplate](https://github.com/sgolovine/data-boilerplate)
+ - **[CC Offers](https://sgolovine.github.io/cc-offers/)** - Credit card offers. Created using [Data Boilerplate](https://github.com/sgolovine/data-boilerplate)
 
 
 ### External Links

@@ -10,6 +10,8 @@ My name is Sunny Golovine I'm an AI engineer that likes making cool and useful s
 - **[CC Offers](https://sgolovine.github.io/cc-offers/)** - Credit card offers. Created using [Data Boilerplate](https://github.com/sgolovine/data-boilerplate)
 - **[Video Poker](https://github.com/sgolovine/video-poker)** - A browser based video poker game. Tries to stay faithful to the classic video poker cabinets.
 - **[ReportKit](https://github.com/sgolovine/report-kit)** - HTML framework for helping your agents build beautiful reports.
+- **[Distributor](https://github.com/sgolovine/distributor)** - Keep your agent skills in sync.
+- **[Rowbly](https://github.com/sgolovine/rowbly)** - A JIRA alternative for you and your agents.
 
 ### External Links
 
